@@ -1,2 +1,2 @@
-# MIST-4610-Group-Project-2---Group-6
+# Group 6-MIST-4610 Group Project 2
 
