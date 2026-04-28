@@ -68,6 +68,7 @@ For this question, we used a CASE statement that assigns each airport to a regio
 ## Analysis and Results
 <img width="500" height="207" alt="Screenshot 2026-04-27 at 7 55 23 PM" src="https://github.com/user-attachments/assets/999a9787-b763-4a54-84c8-6209f6e10a60" />
 
+
 **Analysis of Question 1:**
 
 The first question gave insight into the flight performance during different seasons. The chart shows that summer is the peak season for flights, and the US maintains a similar number of flights throughout the year. This is likely because the US economy does not rely on tourism, which would show increased seasonality. The chart also shows that while summer, spring, and fall do not have any cancelled flights, winter has roughly 153K. There are also a considerable number of extra flights during summer, spring, and fall, which suggests that carriers need to add additional flights to their offerings throughout these seasons. All these insights give different airline carriers information on when to supply more flights, and when are good times to increase or decrease flight prices. 
