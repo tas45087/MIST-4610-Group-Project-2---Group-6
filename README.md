@@ -33,7 +33,7 @@ This question uses columns such as ORIGIN_AIRPORT_ID, AIRPORT_NAME, VARIABLE, an
 
 
 ## Questions and Justification
-###Query 1:
+**###Query 1:**
 
 Question:
 How do seasonal changes affect flight reliability in the U.S., based on the difference between scheduled departures, actual departures, cancellations, and extra flights? 
