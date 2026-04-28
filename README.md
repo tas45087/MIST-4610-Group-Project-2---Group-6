@@ -60,7 +60,7 @@ To answer this question, we joined the US Department of Transportation Time Seri
 
 
 
-**Question 2: **
+**Question 2:**
 Which airports exceed the average number of departing flights and serve as primary travel hubs in the U.S.?
 For this question, we used a CASE statement that assigns each airport to a region based on its STATE_GEO_ID. We then joined the Time Series table with the Airport Index table using AIRPORT_ORIGIN_ID = AIRPORT_ID to match each flight record with its airport name and location. We filtered it using VARIABLE = ‘DEPARTURES PERFORMED’ to include only the completed departed flights. To calculate total departures, we used SUM(usdot_ts.VALUE to, and implemented GROUP BY (region, AIRPORT_NAME) to group the data at the airport level within each region. We also used a HAVING clause to compare each airport’s total flights to the average total departures across all airports. This is calculated through a subquery summing all departures per airport and then averaging those totals (AVG()). Only airports with total_flights greater than the calculated average are recorded, which filters out lower-traffic airports. We sorted the resulting airports with ORDER BY total_flights DESC, region and LIMIT 10;. This gives us the 10 busiest airports that operate above the overall average along with the region they belong to.
 
