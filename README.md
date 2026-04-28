@@ -69,10 +69,12 @@ For this question, we used a CASE statement that assigns each airport to a regio
 <img width="500" height="207" alt="Screenshot 2026-04-27 at 7 55 23 PM" src="https://github.com/user-attachments/assets/999a9787-b763-4a54-84c8-6209f6e10a60" />
 
 **Analysis of Question 1:**
+
 The first question gave insight into the flight performance during different seasons. The chart shows that summer is the peak season for flights, and the US maintains a similar number of flights throughout the year. This is likely because the US economy does not rely on tourism, which would show increased seasonality. The chart also shows that while summer, spring, and fall do not have any cancelled flights, winter has roughly 153K. There are also a considerable number of extra flights during summer, spring, and fall, which suggests that carriers need to add additional flights to their offerings throughout these seasons. All these insights give different airline carriers information on when to supply more flights, and when are good times to increase or decrease flight prices. 
 
 
-Analysis of Question 2:
+**Analysis of Question 2:**
+
 This chart illustrates how flight concentrations are generally dominated by a small concentration of airports, with Hartsfield Jackson, Chicago O’Hare and Dallas/ Fort Worth International being the most dominant. Past the top 3 most concentrated airports, there is a noticeable drop off in flights, and we notice a second group, Denver and Los Angeles International, also having a high volume of flights, but not on the scale of the first three. Then, the rest of the airports level out, averaging around 7 million total flights. We can see a trend where airports located in the South tend to have the highest ceiling for flight activity than the others, as noted by Hartsfield-Jackson and Dallas-Fort Worth. The West comes at a close second, with a relatively consistent and strong stream of flights coming from Denver, Los Angeles, and Charlotte Douglas International. Finally we can see the Midwest region with more of a mixed concentration, containing both one of the busiest airports in the group (Chicago O’ Hare) and two of the more lower volume airports (Detroit Metro and Minneapolis- St). This helps us visualize how air traffic in the U.S is largely centralized, with few key airports acting as primary hubs and others operating at more steady, consistent levels.
 ****
 
