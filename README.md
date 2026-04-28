@@ -42,7 +42,7 @@ Justification:
 This query analyzes how flight activity differs across the seasons (Winter, Spring, Summer, Fall) by comparing the total scheduled flights to actual flights flown, while calculating cancellations and extra flights. Operationally, it is meaningful because it helps airlines and airports understand how patterns change with the seasons to improve scheduling accuracy and better prepare for disruptions such as weather delays and holidays. Economically, it identifies periods of high and low efficiency, showing when airlines may lose revenue due to cancellations or gain revenue from increased demand during peak seasons. Socially, our query displays how reliable air travel is throughout the year (especially during busy travel seasons like holidays) and potential impacts for a passengers ability to travel. The query uses the US_DEPARTMENT_OF_TRANSPORTATION_TIMESERIES table (including DATE, VARIABLE, VALUE, and ORIGIN_AIRPORT_ID) and the AIRPORT_INDEX table (AIRPORT_ID). 
 <img width="502" height="294" alt="Screenshot 2026-04-27 at 7 52 54 PM" src="https://github.com/user-attachments/assets/a4cb430d-aac1-452a-bbf3-bf4d80aab30c" />
 
-**Query 2: **
+**Query 2:**
 
 Question: 
 Which airports exceed the average number of departing flights and serve as primary travel hubs in the U.S.?  
